@@ -5,7 +5,7 @@ public class Animal {
         System.out.println("Animal"); // prints animal
     }
 
-    public void printResult(){
+     public void printResult(){
         System.out.println("Animal class");
     }
 }
