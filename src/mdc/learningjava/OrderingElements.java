@@ -29,6 +29,7 @@ public class OrderingElements {
         System.out.println("The number is " + number);
 
         int anotherInt = 20;
+        String name = "Dunieski";
 
 //        void mymethod(){ ==> this does not compile because myMethod() method is created inside the
                              // main method and methods cannot overlap
