@@ -78,5 +78,7 @@ public class ObjectEquality {
         System.out.println("int2 hash: " + System.identityHashCode(int2));
         System.out.println("int3 hash: " + System.identityHashCode(int3));
         System.out.println("int4 hash: " + System.identityHashCode(int4));
+
+
     }
 }
