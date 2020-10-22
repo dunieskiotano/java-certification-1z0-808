@@ -3,6 +3,7 @@ package mdc.learningjava;
 public class TestPerson {
 
     public static void main(String[] args) {
+
         Person person1 = new Person(); // creates an object from Person class
         Person person2 = new Person(); // creates another object from Person class
         person1.setFirstName("Dunieski");
