@@ -48,11 +48,8 @@ public class UsingArrayListMethods2 {
         System.out.println("Pets: " + pets);
         System.out.println("newPets: " + newPets);
 
+        // size and elements are equal but the order of the elements is not equal
         System.out.println(pets.equals(newPets));
-
-
-
-
 
     }
 }
