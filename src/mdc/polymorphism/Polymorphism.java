@@ -1,6 +1,4 @@
 package mdc.polymorphism;
-
-
 import java.util.ArrayList;
 import java.util.List;
 
