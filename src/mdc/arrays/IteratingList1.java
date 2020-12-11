@@ -22,6 +22,7 @@ public class IteratingList1 {
             counter++;
         }
 
+
         // Iterator
         for (Iterator<Integer> numIterator = numbers.iterator(); numIterator.hasNext(); ) {
             Integer number = numIterator.next();
